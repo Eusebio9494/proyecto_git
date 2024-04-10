@@ -1,0 +1,2 @@
+Linea principal de archivofeature2.txt
+Linea 2
